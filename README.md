@@ -36,6 +36,16 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+Install Python 3.10.19 (venv)
+
+[Python Virtual Environment (venv) Guide](https://github.com/oliverpoole09/SetupVenv/blob/main/README.md)
+
+Install Mediapipe 0.10.21
+
+```bash
+pip install mediapipe==0.10.21
+```
+
 ## 🖥️ App Installation
 
 Download the prebuilt app from **Releases**:
