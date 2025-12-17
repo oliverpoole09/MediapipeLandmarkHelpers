@@ -42,12 +42,7 @@ pip install -r requirements.txt
 
 ## 🖥️ App Installation
 
-Download the prebuilt app from **Releases**:
-* 📦 **macOS app available**
-
-> [!NOTE]
-> macOS is the only supported platform at the moment.
-> Reach out if you want a Windows version.
+Prebuilt app avalible for macOS soon.
 
 ## 📜 License
 
