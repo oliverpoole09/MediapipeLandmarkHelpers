@@ -11,7 +11,7 @@ This repository contains simple, reusable helper functions that make it easier t
 - 📍 Helper functions for MediaPipe landmark data
 - ✋ Utilities for **hand landmarks**
 - 🙂 Utilities for **face landmarks**
-- 🧍 Utilities for **pose landmarks**
+- 🧍 ~~Utilities for **pose landmarks**~~ (Coming soon)
 - 🧠 Cleaner access to landmark coordinates and indices
 - 🧪 Useful for prototyping gesture control, tracking, and visualization projects
 
