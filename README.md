@@ -1,5 +1,10 @@
 # MediapipeLandmarkHelpers
 
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)
+![License](https://img.shields.io/github/license/oliverpoole09/MediapipeLandmarkHelpers)
+![Stars](https://img.shields.io/github/stars/oliverpoole09/MediapipeLandmarkHelpers?style=social)
+
 **Small Python helper utilities for working with MediaPipe landmarks.**
 
 This repository contains simple, reusable helper functions that make it easier to work with hand, face, and pose landmarks produced by Google’s MediaPipe. The goal is to reduce repetitive code and make landmark-based projects cleaner and easier to understand.
