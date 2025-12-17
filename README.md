@@ -11,7 +11,7 @@ This repository contains simple, reusable helper functions that make it easier t
 - 📍 Helper functions for MediaPipe landmark data
 - ✋ Utilities for **hand landmarks**
 - 🙂 Utilities for **face landmarks**
-- 🧍 ~~Utilities for **pose landmarks**~~ (Coming soon)
+- 🧍 ~~Utilities for **pose landmarks**~~ *(Coming soon)*
 - 🧠 Cleaner access to landmark coordinates and indices
 - 🧪 Useful for prototyping gesture control, tracking, and visualization projects
 
@@ -32,11 +32,14 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Install program itself:
+## 🖥️ App Installation
 
-Install Mac app under releases
+Download the prebuilt app from **Releases**:
+* 📦 **macOS app available**
+
 > [!NOTE]
-> Mac is only supported for the moment, reach out if you want a Windows version.
+> macOS is the only supported platform at the moment.
+> Reach out if you want a Windows version.
 
 ## 📜 License
 
