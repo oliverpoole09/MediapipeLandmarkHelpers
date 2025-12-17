@@ -32,6 +32,10 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+Install program itself:
+
+
+
 ## 📜 License
 
 This project is open-source. See the LICENSE file for details.
