@@ -24,3 +24,14 @@ Clone the repository:
 ```bash
 git clone https://github.com/oliverpoole09/MediapipeLandmarkHelpers.git
 cd MediapipeLandmarkHelpers
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## 📜 License
+
+This project is open-source. See the LICENSE file for details.
