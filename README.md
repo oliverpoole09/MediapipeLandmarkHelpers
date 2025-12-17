@@ -34,7 +34,9 @@ pip install -r requirements.txt
 
 Install program itself:
 
-
+Install Mac app under releases
+> [!NOTE]
+> Mac is only supported for the moment, reach out if you want a Windows version.
 
 ## 📜 License
 
