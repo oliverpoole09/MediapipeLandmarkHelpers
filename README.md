@@ -30,15 +30,15 @@ git clone https://github.com/oliverpoole09/MediapipeLandmarkHelpers.git
 cd MediapipeLandmarkHelpers
 ```
 
+Install Python 3.10.19 (venv):
+
+[Python Virtual Environment (venv) Guide](https://github.com/oliverpoole09/SetupVenv/blob/main/README.md)
+
 Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
-
-Install Python 3.10.19 (venv)
-
-[Python Virtual Environment (venv) Guide](https://github.com/oliverpoole09/SetupVenv/blob/main/README.md)
 
 ## 🖥️ App Installation
 
